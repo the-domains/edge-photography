@@ -1,6 +1,6 @@
 name: Edge Photography
 favicon: null
-layout_spectrum: 1
+layout_spectrum: 0.24649
 typography_spectrum: 0.6541219
 title: Photography on the edge
 cta:
@@ -23,7 +23,7 @@ color:
     - '#a99e92'
     - '#16383b'
   brandStrength: 0.8888889
-  lightness: 0.4354211
+  lightness: 0.8125
   saturation: 0.1875
   rhythmicContrast: 0.4469675
 purpose: []

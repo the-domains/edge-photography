@@ -1,14 +1,29 @@
+name: Edge Photography
+favicon: null
 layout_spectrum: 0.1702509
 typography_spectrum: 0.6541219
+title: Photography on the edge
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.9683801
-  lightness: 0.4354211
-  brandStrength: 0.8888889
   brandColors:
     - '#0E0F14'
     - '#B4ACB3'
     - '#5C535C'
     - '#BD8953'
     - '#F2F1F1'
+  brandStrength: 0.8888889
+  lightness: 0.4354211
+  saturation: 0.9683801
   rhythmicContrast: 0.4469675
-name: Edge Photography
+purpose: []

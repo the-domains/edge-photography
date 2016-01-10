@@ -1,8 +1,14 @@
-layout_spectrum: 0.06958911
-typography_spectrum: 0.1234301
+layout_spectrum: 0.1702509
+typography_spectrum: 0.6541219
 color:
   saturation: 0.9683801
   lightness: 0.4354211
-  brandStrength: 0.4540052
+  brandStrength: 0.8888889
+  brandColors:
+    - '#0E0F14'
+    - '#B4ACB3'
+    - '#5C535C'
+    - '#BD8953'
+    - '#F2F1F1'
   rhythmicContrast: 0.4469675
 name: Edge Photography

@@ -1,29 +1,41 @@
-name: Edge Photography
-favicon: null
-layout_spectrum: 0.24649
-typography_spectrum: 0.6541219
 title: Photography on the edge
+purpose: []
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+color:
+  saturation: 0.7318718
+  lightness: 0.9232715
+  brandStrength: 0.8888889
+  brandColors:
+    - '#0E0F14'
+    - '#B4ACB3'
+    - '#5C535C'
+    - '#BD8953'
+    - '#F2F1F1'
+  rhythmicContrast: 0.8178752
 cta:
-  domain: null
   bucket: null
   version: null
+  domain: null
 analytics:
+  twitter: null
   google: null
   facebook: null
-  twitter: null
+favicon: null
+name: Edge Photography
 opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#000000'
-    - '#c2e2ee'
-    - '#54553a'
-    - '#a99e92'
-    - '#16383b'
-  brandStrength: 0.8888889
-  lightness: 0.8125
-  saturation: 0.1875
-  rhythmicContrast: 0.4469675
-purpose: []
+typography_spectrum: 0.6541219
+layout_spectrum: 0.24649
